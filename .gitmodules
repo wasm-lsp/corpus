@@ -1,3 +1,6 @@
 [submodule "vendor/WebAssembly/spec"]
 	path = vendor/WebAssembly/spec
 	url = https://github.com/WebAssembly/spec
+[submodule "vendor/bytecodealliance/wasm-interface-types"]
+	path = vendor/bytecodealliance/wasm-interface-types
+	url = https://github.com/bytecodealliance/wasm-interface-types
