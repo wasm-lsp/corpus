@@ -4,3 +4,6 @@
 [submodule "vendor/bytecodealliance/wasm-interface-types"]
 	path = vendor/bytecodealliance/wasm-interface-types
 	url = https://github.com/bytecodealliance/wasm-interface-types
+[submodule "vendor/WebAssembly/annotations"]
+	path = vendor/WebAssembly/annotations
+	url = https://github.com/WebAssembly/annotations
