@@ -7,3 +7,18 @@
 [submodule "vendor/WebAssembly/annotations"]
 	path = vendor/WebAssembly/annotations
 	url = https://github.com/WebAssembly/annotations
+[submodule "vendor/WebAssembly/bulk-memory-operations"]
+	path = vendor/WebAssembly/bulk-memory-operations
+	url = https://github.com/WebAssembly/bulk-memory-operations
+[submodule "vendor/WebAssembly/exception-handling"]
+	path = vendor/WebAssembly/exception-handling
+	url = https://github.com/WebAssembly/exception-handling
+[submodule "vendor/WebAssembly/reference-types"]
+	path = vendor/WebAssembly/reference-types
+	url = https://github.com/WebAssembly/reference-types
+[submodule "vendor/WebAssembly/simd"]
+	path = vendor/WebAssembly/simd
+	url = https://github.com/WebAssembly/simd
+[submodule "vendor/WebAssembly/threads"]
+	path = vendor/WebAssembly/threads
+	url = https://github.com/WebAssembly/threads
