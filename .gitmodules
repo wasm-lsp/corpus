@@ -22,3 +22,6 @@
 [submodule "vendor/WebAssembly/threads"]
 	path = vendor/WebAssembly/threads
 	url = https://github.com/WebAssembly/threads
+[submodule "vendor/WebAssembly/multi-memory"]
+	path = vendor/WebAssembly/multi-memory
+	url = https://github.com/WebAssembly/multi-memory
