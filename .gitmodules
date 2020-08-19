@@ -25,3 +25,6 @@
 [submodule "vendor/WebAssembly/multi-memory"]
 	path = vendor/WebAssembly/multi-memory
 	url = https://github.com/WebAssembly/multi-memory
+[submodule "vendor/WebAssembly/function-references"]
+	path = vendor/WebAssembly/function-references
+	url = https://github.com/WebAssembly/function-references
