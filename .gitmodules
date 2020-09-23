@@ -1,9 +1,3 @@
-[submodule "vendor/WebAssembly/spec"]
-	path = vendor/WebAssembly/spec
-	url = https://github.com/WebAssembly/spec
-[submodule "vendor/bytecodealliance/wasm-interface-types"]
-	path = vendor/bytecodealliance/wasm-interface-types
-	url = https://github.com/bytecodealliance/wasm-interface-types
 [submodule "vendor/WebAssembly/annotations"]
 	path = vendor/WebAssembly/annotations
 	url = https://github.com/WebAssembly/annotations
@@ -13,18 +7,24 @@
 [submodule "vendor/WebAssembly/exception-handling"]
 	path = vendor/WebAssembly/exception-handling
 	url = https://github.com/WebAssembly/exception-handling
+[submodule "vendor/WebAssembly/function-references"]
+	path = vendor/WebAssembly/function-references
+	url = https://github.com/WebAssembly/function-references
+[submodule "vendor/WebAssembly/multi-memory"]
+	path = vendor/WebAssembly/multi-memory
+	url = https://github.com/WebAssembly/multi-memory
 [submodule "vendor/WebAssembly/reference-types"]
 	path = vendor/WebAssembly/reference-types
 	url = https://github.com/WebAssembly/reference-types
 [submodule "vendor/WebAssembly/simd"]
 	path = vendor/WebAssembly/simd
 	url = https://github.com/WebAssembly/simd
+[submodule "vendor/WebAssembly/spec"]
+	path = vendor/WebAssembly/spec
+	url = https://github.com/WebAssembly/spec
 [submodule "vendor/WebAssembly/threads"]
 	path = vendor/WebAssembly/threads
 	url = https://github.com/WebAssembly/threads
-[submodule "vendor/WebAssembly/multi-memory"]
-	path = vendor/WebAssembly/multi-memory
-	url = https://github.com/WebAssembly/multi-memory
-[submodule "vendor/WebAssembly/function-references"]
-	path = vendor/WebAssembly/function-references
-	url = https://github.com/WebAssembly/function-references
+[submodule "vendor/bytecodealliance/wasm-interface-types"]
+	path = vendor/bytecodealliance/wasm-interface-types
+	url = https://github.com/bytecodealliance/wasm-interface-types
